@@ -1,0 +1,47 @@
+.main-container{
+  background-color: #2b2b2b; 
+  border-radius: 15px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  border: 3px solid #575edd81;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+
+.profile-container{
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-container img {
+  width: 300px;
+  height: 300px; 
+  border-radius: 50%;
+  object-fit: cover;
+  border: 5px solid transparent;
+  outline: 5px solid rgb(108, 151, 214);
+}
+
+.btn-github{
+  width: 100px;
+  text-decoration: none;
+  color: #646cff;
+  font-weight: bolder;
+  text-align: center;
+  border: 3px solid #575edd;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: white;
+  
+}
+
+.btn-github:hover{
+  color: white;
+  background-color: #535bf2;
+  
+}
