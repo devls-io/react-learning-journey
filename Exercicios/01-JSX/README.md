@@ -10,3 +10,7 @@ Este é o meu primeiro projeto prático com React. O objetivo foi criar uma pág
 - **Uso de classes CSS:** Aplicação de estilos básicos para aprimorar o visual do componente.
 
 
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/4fe26e74-1b9d-47de-a57e-dfaa5b777c9c" />
+
+
+
