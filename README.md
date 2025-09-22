@@ -1,2 +1,2 @@
 # react-learning-journey
-Esse repositório foi criado para guardar todo meu progresso em React 
+Repositório dedicado ao meu progresso em React. Contém pequenos projetos e práticas, de forma organizada, com foco no aprendizado e no desenvolvimento de um portfólio.
