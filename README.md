@@ -1,6 +1,3 @@
-# react-learning-journey
-Repositório dedicado ao meu progresso em React. Contém pequenos projetos e práticas, de forma organizada, com foco no aprendizado e no desenvolvimento de um portfólio.
-
 # 🚀 Minha Jornada no React
 
 Este repositório contém meus estudos e exercícios em **React**, organizados em etapas de aprendizado.  
@@ -11,14 +8,13 @@ Cada pasta corresponde a um conceito estudado, com código, explicação e print
 ## 📌 Progresso
 
 - [x] 01 - JSX (entendendo JSX)  
-- [x] 02 - Props (passagem de propriedades)  
+- [ ] 02 - Props (passagem de propriedades)  
 - [ ] 03 - useState (estado e reatividade)  
 - [ ] 04 - useEffect (efeitos colaterais)  
 - [ ] 05 - useContext (context API)  
 - [ ] 06 - useRef & forwardRef  
 - [ ] 07 - React Router (rotas e navegação)  
-- [ ] 08 - Tailwind (estilização)  
-- [ ] 09 - Projeto Final 🎯  
+- [ ] 08 - Projeto Final 🎯  
 
 ---
 
