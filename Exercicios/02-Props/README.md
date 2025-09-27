@@ -16,3 +16,6 @@ Este projeto demonstra as três formas de manipulação de Props em seus context
 | **Button** | **Desestruturação (`{children, type, onClick, ...}`):** Uso de props nomeadas para lidar com eventos e conteúdo. | Melhora a legibilidade do código no componente. |
 | **Input** | **Operador Rest (`{...props}`):** Cria um componente **pass-through** (flexível), que aceita e repassa todos os atributos HTML (`placeholder`, `required`, `className`, etc.) para a tag nativa `<input>`. | Demonstra a flexibilidade máxima e a capacidade de criar wrappers. |
 
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/9041686c-07a2-4df4-923e-23cd82289368" />
+
+
