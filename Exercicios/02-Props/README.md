@@ -1,7 +1,7 @@
 # 02 - Props e Componentização da UI
 
 ## Descrição do Projeto
-Este é o meu segundo exercício prático na jornada de React. O objetivo foi dominar a **API de Componentes**, focando em como criar componentes reutilizáveis, eficientes e de fácil manutenção, usando Tailwind para a estilização.
+Este é o meu segundo exercício prático na jornada de React. O objetivo foi dominar o uso de props, focando em como criar componentes reutilizáveis, eficientes e de fácil manutenção, usando Tailwind para a estilização.
 
 ## Conceitos Aprendidos
 * **Componentização e Reutilização:** O projeto foi dividido em componentes lógicos e auto-suficientes (`HeadingLevel2`, `Input`, `Button`), mostrando a separação de responsabilidades.
