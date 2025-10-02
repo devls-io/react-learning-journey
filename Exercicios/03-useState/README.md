@@ -9,3 +9,6 @@ Este é o meu terceiro exercício na jornada React, focado em entender o uso do 
 * **Inicialização Preguiçosa:** Uso de uma função (`useState(() => ... )`) para definir o estado inicial apenas uma vez, otimizando o carregamento.
 * **Gerenciamento de IDs:** Implementação de uma lógica (`Math.max() + 1`) para garantir que cada item da lista tenha uma chave (`key`) única, o que é fundamental para a performance do React.
 
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/3447ff1c-3f7f-4317-ab39-cdc6aa4d5204" />
+
+
