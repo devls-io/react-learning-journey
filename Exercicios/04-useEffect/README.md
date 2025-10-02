@@ -1,7 +1,7 @@
 # 04 - Praticando o Hook useEffect e Side Effects
 
 ## Descrição do Projeto
-Este é o meu quarto exercício prático. O objetivo foi dominar o hook `useEffect` para lidar com as interações do componente com o "mundo exterior" (side effects), como a busca de dados de API. O projeto é um Painel de Status de Usuário que permite a navegação entre IDs.
+Este é o meu quarto exercício prático. O objetivo foi entender o hook `useEffect` para lidar com as interações do componente com o "mundo exterior" (side effects), como a busca de dados de API. O projeto é um Painel de Status de Usuário que permite a navegação entre IDs.
 
 ## Principais Conquistas e Conceitos
 * **Controle de Ciclo de Vida (`useEffect`):** Implementação dos três pilares (Montagem, Atualização e Limpeza) para buscar dados assíncronos.
@@ -11,6 +11,7 @@ Este é o meu quarto exercício prático. O objetivo foi dominar o hook `useEffe
 * **Controle de Limites (Robusto):** Uso de `Math.min(MAX)` e `Math.max(MIN)` para garantir que a navegação não vá abaixo de 1 nem acima de 10.
 * **Estilização Condicional:** Uso do modificador `disabled:` do Tailwind para aplicar estilos cinzas quando os botões atingem o limite.
 
+<img width="400" height="500" alt="2" src="https://github.com/user-attachments/assets/5cc65e02-47a8-4192-a6ac-45d131adf2b3" />
 
 
 
