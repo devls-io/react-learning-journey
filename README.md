@@ -10,7 +10,7 @@ Cada pasta corresponde a um conceito estudado, com código, explicação e print
 - [x] 01 - JSX (entendendo JSX)  
 - [x] 02 - Props (passagem de propriedades)  
 - [x] 03 - useState (estado e reatividade)  
-- [ ] 04 - useEffect (efeitos colaterais)  
+- [x] 04 - useEffect (efeitos colaterais)  
 - [ ] 05 - useContext (context API)  
 - [ ] 06 - useRef & forwardRef  
 - [ ] 07 - React Router (rotas e navegação)  
