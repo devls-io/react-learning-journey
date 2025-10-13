@@ -1,4 +1,4 @@
-# 05 - Dominando o Hook useContext (Context API)
+# 05 - Aprendendo o Hook useContext (Context API)
 
 ## Descrição do Projeto
 Este é o meu quinto exercício prático. O objetivo foi resolver o problema do **Prop Drilling** e entender como criar e consumir dados globais (como um tema) de forma eficiente no React. 
