@@ -13,7 +13,7 @@ Cada pasta corresponde a um conceito estudado, com código, explicação e print
 - [x] 04 - useEffect (efeitos colaterais)  
 - [x] 05 - useContext (context API)  
 - [x] 06 - useRef & forwardRef  
-- [ ] 07 - React Router (rotas e navegação)  
+- [x] 07 - React Router (rotas e navegação)  
 - [ ] 08 - Projeto Final 🎯  
 
 ---
