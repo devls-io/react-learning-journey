@@ -16,4 +16,5 @@ Projeto de aprendizado em React, onde o usuário responde perguntas sobre React,
 * Tailwind CSS
 * JavaScript (ES6+)
 
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/cb911458-c8cb-4af6-ad1b-5d64f4aa4702" />
 
